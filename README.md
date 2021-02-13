@@ -1,7 +1,7 @@
 # Um clone do app Club House
     
 ## Demonstração
-<img src="https://macmagazine.com.br/wp-content/uploads/2021/02/08-clubhouse-623x1260.png" alt="exemplo">
+<img src="./assets/demo.png" alt="exemplo">
 
 ## Tecnologias
 
@@ -11,3 +11,5 @@
 ## Autor
 
 **Edimilson BrazZ**
+
+Encontre me nas rede sociais como @edimilsonbraz
